@@ -16,4 +16,4 @@ The key challenges were:
 2. **Chattering Alarms**: Repetitive alarms distracted operators from addressing critical issues.
 3. **Downtime Risk**: Delayed responses to critical alarms increased the risk of plant downtime and financial losses.
 
- In this project, we evaluated KNN, Logistic Regression, and Decision Trees to predict critical alarms in a thermal power plant. While KNN achieved the highest accuracy (91%), Logistic Regression had a lower false negative rate (0.16), making it the better choice for minimizing risks in high-stakes environments. Learn more in the [insights](/insights) folder.
+ In this project, we evaluated KNN, Logistic Regression, and Decision Trees to predict critical alarms in a thermal power plant. While KNN achieved the highest accuracy (91%), Logistic Regression had a lower false negative rate (0.16), making it the better choice for minimizing risks in high-stakes environments. Learn more in the [analysis](/analysis) folder.
