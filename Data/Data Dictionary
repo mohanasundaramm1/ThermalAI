@@ -1,0 +1,12 @@
+
+Data Dictionary:
+
+- ATN (Alarm Tag Name)- Alarm Type Identifier
+- DURATION - Active Time Duration of Alarm
+- C-B – Chattering Behaviour Flag
+- MONTH – Month from 1 to 12
+- TYPE_ALARM – Type of Alarm (Pressure, level, Flow, Temperature, others )
+- H – Which hour the particular alarm occurred
+- WEEK- Week categorized into 4 weeks (1week, 2week, 3week, 4week )
+- SEVERITY – Level of severity of alarm
+- BIOLER ALARM – Type of Boiler alarm
